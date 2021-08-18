@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm evan
-Struggle to be a linux kernel engineer.
 <!--
 **yatsen1998/yatsen1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![yatsen1998's github stats](https://github-readme-stats.vercel.app/api?username=yatsen1998)](https://github.com/yatsen1998/github-readme-stats)
